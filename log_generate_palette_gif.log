@@ -1,0 +1,238 @@
+ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Splitting the commandline.
+Reading option '-v' ... matched as option 'v' (set logging level) with argument 'debug'.
+Reading option '-nostdin' ... matched as option 'stdin' (enable or disable interaction on standard input) with argument 0.
+Reading option '-progress' ... matched as option 'progress' (write program-readable progress information) with argument 'C:/Users/lsl/AppData/Local/Temp/KritaFFmpegProgress.BWMOOR'.
+Reading option '-r' ... matched as option 'r' (set frame rate (Hz value, fraction or abbreviation)) with argument '10'.
+Reading option '-start_number' ... matched as AVOption 'start_number' with argument '0'.
+Reading option '-i' ... matched as input url with argument 'E:/Repositories/learning-art/frame%04d.png'.
+Reading option '-vf' ... matched as option 'vf' (set video filters) with argument 'palettegen'.
+Reading option '-y' ... matched as option 'y' (overwrite output files) with argument '1'.
+Reading option 'E:/Repositories/learning-art/palette.png' ... matched as output url.
+Finished splitting the commandline.
+Parsing a group of options: global .
+Applying option v (set logging level) with argument debug.
+Applying option nostdin (enable or disable interaction on standard input) with argument 0.
+Applying option progress (write program-readable progress information) with argument C:/Users/lsl/AppData/Local/Temp/KritaFFmpegProgress.BWMOOR.
+[file @ 000002296b71a880] Setting default whitelist 'file,crypto'
+Applying option y (overwrite output files) with argument 1.
+Successfully parsed a group of options.
+Parsing a group of options: input url E:/Repositories/learning-art/frame%04d.png.
+Applying option r (set frame rate (Hz value, fraction or abbreviation)) with argument 10.
+Successfully parsed a group of options.
+Opening an input file: E:/Repositories/learning-art/frame%04d.png.
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0000.png' for reading
+[file @ 000002296b75eb80] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b766d00] Statistics: 1145 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0001.png' for reading
+[file @ 000002296b7674c0] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b767600] Statistics: 1145 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0002.png' for reading
+[file @ 000002296b767540] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b770500] Statistics: 1150 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0003.png' for reading
+[file @ 000002296b767540] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b770c00] Statistics: 1148 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0004.png' for reading
+[file @ 000002296b767540] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b770dc0] Statistics: 1145 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0005.png' for reading
+[file @ 000002296b767540] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b75f580] Statistics: 1145 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0006.png' for reading
+[file @ 000002296b767540] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b75fc00] Statistics: 1150 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0007.png' for reading
+[file @ 000002296b767540] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7602c0] Statistics: 1148 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0008.png' for reading
+[file @ 000002296b767540] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b760480] Statistics: 1145 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0009.png' for reading
+[file @ 000002296b767540] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b760640] Statistics: 1145 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0010.png' for reading
+[file @ 000002296b760640] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1150 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0011.png' for reading
+[file @ 000002296b7661c0] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b760640] Statistics: 1148 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0012.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1142 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0013.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1142 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0014.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1142 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0015.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1142 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0016.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1101 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0017.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1102 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0018.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1133 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0019.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1100 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0020.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1101 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0021.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1102 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0022.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1133 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0023.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1100 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0024.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1101 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0025.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1102 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0026.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1133 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0027.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1100 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0028.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1091 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0029.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1091 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0030.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1091 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0031.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 1091 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0032.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 989 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0033.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 990 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0034.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 980 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0035.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 991 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0036.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 989 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0037.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 990 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0038.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 980 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0039.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 991 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0040.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 989 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0041.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 990 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0042.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 980 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0043.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 991 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0044.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 979 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0045.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 979 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0046.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 979 bytes read, 0 seeks
+[image2 @ 000002296b75b440] Opening 'E:/Repositories/learning-art/frame0047.png' for reading
+[file @ 000002296b766d40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b7661c0] Statistics: 979 bytes read, 0 seeks
+Input #0, image2, from 'E:/Repositories/learning-art/frame%04d.png':
+  Duration: 00:00:01.92, start: 0.000000, bitrate: N/A
+    Stream #0:0, 48, 1/25: Video: png, 1 reference frame, rgba(pc), 32x32 [SAR 2834:2834 DAR 1:1], 0/1, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Successfully opened the file.
+Parsing a group of options: output url E:/Repositories/learning-art/palette.png.
+Applying option vf (set video filters) with argument palettegen.
+Successfully parsed a group of options.
+Opening an output file: E:/Repositories/learning-art/palette.png.
+Successfully opened the file.
+detected 8 logical cores
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> png (native))
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+    Last message repeated 8 times
+[graph 0 input from stream 0:0 @ 000002296b760240] Setting 'video_size' to value '32x32'
+[graph 0 input from stream 0:0 @ 000002296b760240] Setting 'pix_fmt' to value '26'
+[graph 0 input from stream 0:0 @ 000002296b760240] Setting 'time_base' to value '1/10'
+[graph 0 input from stream 0:0 @ 000002296b760240] Setting 'pixel_aspect' to value '2834/2834'
+[graph 0 input from stream 0:0 @ 000002296b760240] Setting 'sws_param' to value 'flags=2'
+[graph 0 input from stream 0:0 @ 000002296b760240] Setting 'frame_rate' to value '10/1'
+[graph 0 input from stream 0:0 @ 000002296b760240] w:32 h:32 pixfmt:rgba tb:1/10 fr:10/1 sar:2834/2834 sws_param:flags=2
+[format @ 000002296b7704c0] Setting 'pix_fmts' to value 'rgb24|rgba|rgb48be|rgba64be|pal8|gray|ya8|gray16be|ya16be|monob'
+[auto_scaler_0 @ 000002296b781ec0] Setting 'flags' to value 'bicubic'
+[auto_scaler_0 @ 000002296b781ec0] w:iw h:ih flags:'bicubic' interl:0
+[Parsed_palettegen_0 @ 000002296b770e40] auto-inserting filter 'auto_scaler_0' between the filter 'graph 0 input from stream 0:0' and the filter 'Parsed_palettegen_0'
+[auto_scaler_1 @ 000002296b7c3dc0] Setting 'flags' to value 'bicubic'
+[auto_scaler_1 @ 000002296b7c3dc0] w:iw h:ih flags:'bicubic' interl:0
+[format @ 000002296b7704c0] auto-inserting filter 'auto_scaler_1' between the filter 'Parsed_palettegen_0' and the filter 'format'
+[AVFilterGraph @ 000002296b771300] query_formats: 4 queried, 1 merged, 2 already done, 0 delayed
+[auto_scaler_1 @ 000002296b7c3dc0] picking rgba out of 10 ref:bgra alpha:1
+[swscaler @ 000002296b7c9fc0] Forcing full internal H chroma due to input having non subsampled chroma
+[auto_scaler_0 @ 000002296b781ec0] w:32 h:32 fmt:rgba sar:2834/2834 -> w:32 h:32 fmt:bgra sar:1/1 flags:0x4
+[swscaler @ 000002296b7ddf80] Forcing full internal H chroma due to input having non subsampled chroma
+[auto_scaler_1 @ 000002296b7c3dc0] w:16 h:16 fmt:bgra sar:1/1 -> w:16 h:16 fmt:rgba sar:1/1 flags:0x4
+Output #0, image2, to 'E:/Repositories/learning-art/palette.png':
+  Metadata:
+    encoder         : Lavf58.29.100
+    Stream #0:0, 0, 1/10: Video: png, 1 reference frame, rgba, 16x16 [SAR 1:1 DAR 1:1], 0/1, q=2-31, 200 kb/s, 10 fps, 10 tbn, 10 tbc
+    Metadata:
+      encoder         : Lavc58.54.100 png
+cur_dts is invalid st:0 (0) [init:1 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+    Last message repeated 47 times
+[Parsed_palettegen_0 @ 000002296b770e40] 13(+1) colors generated out of 13 colors; ratio=1.000000
+cur_dts is invalid st:0 (0) [init:1 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+Clipping frame in rate conversion by 0.000008
+cur_dts is invalid st:0 (0) [init:1 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[out_0_0 @ 000002296b770b80] EOF on sink link out_0_0:default.
+No more output streams to write to, finishing.
+[image2 @ 000002296b778100] Opening 'E:/Repositories/learning-art/palette.png' for writing
+[file @ 000002296b7660c0] Setting default whitelist 'file,crypto'
+[AVIOContext @ 000002296b782bc0] Statistics: 0 seeks, 1 writeouts
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.10 bitrate=N/A speed=  10x    
+[AVIOContext @ 000002296b75b2c0] Statistics: 0 seeks, 1 writeouts
+video:0kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+Input file #0 (E:/Repositories/learning-art/frame%04d.png):
+  Input stream #0:0 (video): 48 packets read (51770 bytes); 48 frames decoded; 
+  Total: 48 packets (51770 bytes) demuxed
+Output file #0 (E:/Repositories/learning-art/palette.png):
+  Output stream #0:0 (video): 1 frames encoded; 1 packets muxed (162 bytes); 
+  Total: 1 packets (162 bytes) muxed
+48 frames successfully decoded, 0 decoding errors
