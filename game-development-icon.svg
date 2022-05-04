@@ -2,30 +2,30 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="257"
    height="256"
    viewBox="0 0 82.892697 58.382942"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="game-development-icon.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="game-development-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter12723"
-       x="-0.032400001"
-       width="1.0648"
-       y="-0.032400001"
-       height="1.0648">
+       x="-0.052937463"
+       width="1.1058749"
+       y="-0.052937463"
+       height="1.1058749">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.30185744"
@@ -40,18 +40,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.7723735"
-     inkscape:cx="989.75911"
-     inkscape:cy="559.49705"
+     inkscape:cx="1095.9923"
+     inkscape:cy="-309.84281"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="true"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -5124,14 +5125,16 @@
        cx="364.80814"
        cy="162.22079"
        r="13.368802"
-       inkscape:export-xdpi="592.92999"
-       inkscape:export-ydpi="592.92999" />
+       inkscape:export-xdpi="148.23"
+       inkscape:export-ydpi="148.23"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\game-development-icon-128.png" />
     <g
        transform="translate(-46.120045,-283.39366)"
        id="g1433-9"
-       inkscape:export-xdpi="592.92999"
-       inkscape:export-ydpi="592.92999"
-       style="stroke:none">
+       inkscape:export-xdpi="148.23"
+       inkscape:export-ydpi="148.23"
+       style="stroke:none"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\game-development-icon-128.png">
       <rect
          ry="0"
          rx="0"
@@ -5161,6 +5164,44 @@
          style="opacity:1;vector-effect:none;fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.14157212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
+    <circle
+       style="vector-effect:none;fill:#191919;fill-opacity:1;stroke:none;stroke-width:4.03164;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1466-9"
+       cx="250.08636"
+       cy="164.39728"
+       r="13.368802"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png" />
+    <rect
+       ry="0"
+       rx="0"
+       y="152.02467"
+       x="237.71378"
+       height="24.745167"
+       width="24.745167"
+       id="rect1421-0-7-8"
+       style="vector-effect:none;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.481117;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.96434;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="vector-effect:none;fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.16127;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 248.74196,153.58528 c -0.077,0 -0.13922,0.0772 -0.13922,0.17261 v 2.38062 a 8.393302,8.393302 0 0 0 -2.1677,0.70871 l -1.40229,-1.92957 c -0.0561,-0.0772 -0.15125,-0.10323 -0.21356,-0.058 l -2.17588,1.5812 c -0.0623,0.0453 -0.0675,0.14389 -0.0113,0.22112 l 1.40355,1.93209 a 8.393302,8.393302 0 0 0 -1.34496,1.84011 l -2.2647,-0.73579 c -0.0908,-0.0295 -0.18283,0.006 -0.20663,0.0794 l -0.83091,2.55701 c -0.0238,0.0732 0.0302,0.15634 0.12095,0.18584 l 2.27101,0.73831 a 8.393302,8.393302 0 0 0 -0.0876,1.13834 8.393302,8.393302 0 0 0 0.0876,1.13897 l -2.27101,0.73768 c -0.0908,0.0295 -0.14475,0.1126 -0.12095,0.18584 l 0.83091,2.55764 c 0.0238,0.0732 0.11584,0.10824 0.20663,0.0787 l 2.26912,-0.73705 a 8.393302,8.393302 0 0 0 1.33677,1.84767 l -1.39977,1.92642 c -0.0561,0.0772 -0.051,0.17585 0.0113,0.22112 l 2.17588,1.58057 c 0.0623,0.0453 0.15745,0.0193 0.21356,-0.058 l 1.40418,-1.93271 a 8.393302,8.393302 0 0 0 2.16581,0.70681 v 2.38566 c 0,0.0955 0.0622,0.17261 0.13922,0.17261 h 2.68867 c 0.077,0 0.13921,-0.0772 0.13921,-0.17261 v -2.38062 a 8.393302,8.393302 0 0 0 2.16834,-0.7087 l 1.40166,1.92956 c 0.0561,0.0772 0.15123,0.10323 0.21355,0.058 l 2.17588,-1.5812 c 0.0623,-0.0453 0.0675,-0.14389 0.0114,-0.22111 l -1.40357,-1.93209 a 8.393302,8.393302 0 0 0 1.34496,-1.84012 l 2.26471,0.73579 c 0.0908,0.0295 0.18282,-0.005 0.20662,-0.0787 l 0.83093,-2.55764 c 0.0238,-0.0732 -0.0302,-0.15634 -0.12095,-0.18584 l -2.271,-0.73831 a 8.393302,8.393302 0 0 0 0.0876,-1.13834 8.393302,8.393302 0 0 0 -0.0876,-1.13896 l 2.271,-0.73769 c 0.0908,-0.0295 0.14475,-0.11259 0.12095,-0.18584 l -0.83093,-2.55701 c -0.0238,-0.0732 -0.11582,-0.10887 -0.20662,-0.0794 l -2.26913,0.73705 a 8.393302,8.393302 0 0 0 -1.33612,-1.84767 l 1.39915,-1.92579 c 0.0561,-0.0772 0.051,-0.17585 -0.0114,-0.22112 l -2.17588,-1.5812 c -0.0623,-0.0453 -0.15743,-0.0193 -0.21355,0.058 l -1.40357,1.93272 a 8.393302,8.393302 0 0 0 -2.16643,-0.70682 v -2.38566 c 0,-0.0955 -0.0622,-0.17261 -0.13921,-0.17261 z m 1.34433,3.82386 a 6.9880618,6.9880618 0 0 1 6.98814,6.98815 6.9880618,6.9880618 0 0 1 -6.98814,6.98815 6.9880618,6.9880618 0 0 1 -6.98815,-6.98815 6.9880618,6.9880618 0 0 1 6.98815,-6.98815 z"
+       id="path1898-0-2-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="vector-effect:none;fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.116183;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 246.8001,166.53909 c -0.0711,0 -0.12844,0.0573 -0.12844,0.12844 v 2.89095 c 0,0.0711 0.0573,0.12844 0.12844,0.12844 h 6.5725 c 0.0711,0 0.12843,-0.0573 0.12843,-0.12844 v -2.89095 c 0,-0.0711 -0.0573,-0.12844 -0.12843,-0.12844 z m 1.09739,0.49695 h 0.65035 v 0.74975 h 0.74974 v 0.65035 h -0.74974 v 0.75019 h -0.65035 v -0.75019 h -0.7502 v -0.65035 h 0.7502 z m 4.05233,0 c 0.18416,-2e-5 0.33315,0.14897 0.33313,0.33312 2e-5,0.18415 -0.14897,0.3336 -0.33313,0.33358 -0.18415,2e-5 -0.33361,-0.14944 -0.33358,-0.33358 -3e-5,-0.18414 0.14943,-0.33314 0.33358,-0.33312 z m -0.74157,0.74158 c 0.18413,-2e-5 0.33359,0.14943 0.33357,0.33357 2e-5,0.18414 -0.14944,0.3336 -0.33357,0.33357 -0.18415,3e-5 -0.3336,-0.14942 -0.33358,-0.33357 -2e-5,-0.18414 0.14943,-0.3336 0.33358,-0.33357 z m 1.48315,0 c 0.18415,-3e-5 0.33314,0.14943 0.33312,0.33357 2e-5,0.18415 -0.14897,0.3336 -0.33312,0.33357 -0.18399,-1.9e-4 -0.33317,-0.14958 -0.33313,-0.33357 -4e-5,-0.18399 0.14914,-0.33337 0.33313,-0.33357 z m -0.74158,0.74157 c 0.18416,-3e-5 0.33315,0.14942 0.33313,0.33358 2e-5,0.18414 -0.14897,0.3336 -0.33313,0.33356 -0.18415,3e-5 -0.33361,-0.14942 -0.33358,-0.33356 -3e-5,-0.18415 0.14943,-0.3336 0.33358,-0.33358 z"
+       id="path1900-8-9-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssssccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
     <g
        id="g1489"
        inkscape:export-xdpi="148.23"
@@ -5227,5 +5268,107 @@
        id="path1466-1"
        inkscape:export-xdpi="592.92999"
        inkscape:export-ydpi="592.92999" />
+    <g
+       id="g6536"
+       transform="matrix(0.58895656,0,0,0.58895656,115.1713,64.203244)"
+       style="fill:#18ffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001">
+      <path
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.32254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 230.6453,168.73651 c 0,-1.86637 2.14495,-2.67611 2.14495,-5.11605 0,-2.27405 -1.75963,-3.6095 -3.71555,-3.6095 -1.95592,0 -3.71555,1.33545 -3.71555,3.6095 0,2.43994 2.14495,3.24968 2.14495,5.11605 z"
+         id="path1724-0"
+         sodipodi:nodetypes="cscscc" />
+      <path
+         id="rect4630"
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.239491;stroke-linecap:round;stop-color:#000000"
+         d="m 227.15179,169.31991 c -0.10604,0 -0.19141,0.0854 -0.19141,0.19141 0,0.10603 0.0854,0.19141 0.19141,0.19141 h 3.89258 c 0.10603,0 0.1914,-0.0854 0.1914,-0.19141 0,-0.10604 -0.0854,-0.19141 -0.1914,-0.19141 z" />
+      <path
+         id="rect4630-3"
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.239491;stroke-linecap:round;stop-color:#000000"
+         d="m 227.15179,170.08555 c -0.10604,0 -0.19141,0.0854 -0.19141,0.19141 0,0.10603 0.0854,0.19141 0.19141,0.19141 h 3.89258 c 0.10603,0 0.1914,-0.0854 0.1914,-0.19141 0,-0.10604 -0.0854,-0.19141 -0.1914,-0.19141 z" />
+      <path
+         id="rect4630-3-4"
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.239491;stroke-linecap:round;stop-color:#000000"
+         d="m 227.15179,170.85119 c -0.10604,0 -0.19141,0.0854 -0.19141,0.19141 0,0.10603 0.0854,0.19141 0.19141,0.19141 h 3.89258 c 0.10603,0 0.1914,-0.0854 0.1914,-0.19141 0,-0.10604 -0.0854,-0.19141 -0.1914,-0.19141 z" />
+      <rect
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.144526;stroke-linecap:round;stop-color:#000000"
+         id="rect6030"
+         width="2.1758528"
+         height="0.3593092"
+         x="227.93747"
+         y="171.62894"
+         rx="0.1796546"
+         ry="0.1796546" />
+    </g>
+    <path
+       style="fill:none;stroke:#18ffff;stroke-width:0.258032;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 247.35103,160.85987 -1.27511,0.0206"
+       id="path12988"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:none;stroke:#18ffff;stroke-width:0.258032;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 247.699,162.03191 -0.97358,0.62778"
+       id="path12988-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:none;stroke:#18ffff;stroke-width:0.258032;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 247.48237,159.53949 -0.91051,-0.49561"
+       id="path12988-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:none;stroke:#18ffff;stroke-width:0.258032;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 248.48219,158.43304 -0.2468,-0.3702"
+       id="path12992"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:none;stroke:#18ffff;stroke-width:0.258032;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 250.08635,158.01143 v -0.24166"
+       id="path12996"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:none;stroke:#18ffff;stroke-width:0.258032;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 252.82167,160.85987 1.27511,0.0206"
+       id="path12988-3"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:none;stroke:#18ffff;stroke-width:0.258032;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 252.4737,162.03191 0.97358,0.62778"
+       id="path12988-0-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:none;stroke:#18ffff;stroke-width:0.258032;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 252.69033,159.53949 0.91051,-0.49561"
+       id="path12988-1-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:none;stroke:#18ffff;stroke-width:0.258032;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 251.69051,158.43304 0.2468,-0.3702"
+       id="path12992-8"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
   </g>
 </svg>
