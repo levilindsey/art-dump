@@ -7,7 +7,7 @@
    viewBox="0 0 82.892697 58.382942"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="game-development-icon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -39,20 +39,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.544747"
-     inkscape:cx="854.41229"
-     inkscape:cy="-726.6337"
+     inkscape:zoom="2"
+     inkscape:cx="628.75"
+     inkscape:cy="-405.25"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1010"
-     inkscape:window-x="-6"
+     inkscape:window-x="1913"
      inkscape:window-y="-6"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -5432,6 +5434,44 @@
        inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
        inkscape:export-xdpi="889.39001"
        inkscape:export-ydpi="889.39001" />
+    <circle
+       style="fill:#191919;fill-opacity:1;stroke:none;stroke-width:4.03164;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1466-9-3"
+       cx="250.13235"
+       cy="133.83432"
+       r="13.368802"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png" />
+    <rect
+       ry="0"
+       rx="0"
+       y="121.46172"
+       x="237.75977"
+       height="24.745167"
+       width="24.745167"
+       id="rect1421-0-7-8-3"
+       style="fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.481117;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.96434;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.16127;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 248.78794,123.02233 c -0.077,0 -0.13922,0.0772 -0.13922,0.17261 v 2.38062 a 8.393302,8.393302 0 0 0 -2.1677,0.70871 l -1.40229,-1.92957 c -0.0561,-0.0772 -0.15125,-0.10323 -0.21356,-0.058 l -2.17588,1.5812 c -0.0623,0.0453 -0.0675,0.14389 -0.0113,0.22112 l 1.40355,1.93209 a 8.393302,8.393302 0 0 0 -1.34496,1.84011 l -2.2647,-0.73579 c -0.0908,-0.0295 -0.18283,0.006 -0.20663,0.0794 l -0.83091,2.55701 c -0.0238,0.0732 0.0302,0.15634 0.12095,0.18584 l 2.27101,0.73831 a 8.393302,8.393302 0 0 0 -0.0876,1.13834 8.393302,8.393302 0 0 0 0.0876,1.13897 l -2.27101,0.73768 c -0.0908,0.0295 -0.14475,0.1126 -0.12095,0.18584 l 0.83091,2.55764 c 0.0238,0.0732 0.11584,0.10824 0.20663,0.0787 l 2.26912,-0.73705 a 8.393302,8.393302 0 0 0 1.33677,1.84767 l -1.39977,1.92642 c -0.0561,0.0772 -0.051,0.17585 0.0113,0.22112 l 2.17588,1.58057 c 0.0623,0.0453 0.15745,0.0193 0.21356,-0.058 l 1.40418,-1.93271 a 8.393302,8.393302 0 0 0 2.16581,0.70681 v 2.38566 c 0,0.0955 0.0622,0.17261 0.13922,0.17261 h 2.68867 c 0.077,0 0.13921,-0.0772 0.13921,-0.17261 v -2.38062 a 8.393302,8.393302 0 0 0 2.16834,-0.7087 l 1.40166,1.92956 c 0.0561,0.0772 0.15123,0.10323 0.21355,0.058 l 2.17588,-1.5812 c 0.0623,-0.0453 0.0675,-0.14389 0.0114,-0.22111 l -1.40357,-1.93209 a 8.393302,8.393302 0 0 0 1.34496,-1.84012 l 2.26471,0.73579 c 0.0908,0.0295 0.18282,-0.005 0.20662,-0.0787 l 0.83093,-2.55764 c 0.0238,-0.0732 -0.0302,-0.15634 -0.12095,-0.18584 l -2.271,-0.73831 a 8.393302,8.393302 0 0 0 0.0876,-1.13834 8.393302,8.393302 0 0 0 -0.0876,-1.13896 l 2.271,-0.73769 c 0.0908,-0.0295 0.14475,-0.11259 0.12095,-0.18584 l -0.83093,-2.55701 c -0.0238,-0.0732 -0.11582,-0.10887 -0.20662,-0.0794 l -2.26913,0.73705 a 8.393302,8.393302 0 0 0 -1.33612,-1.84767 l 1.39915,-1.92579 c 0.0561,-0.0772 0.051,-0.17585 -0.0114,-0.22112 l -2.17588,-1.5812 c -0.0623,-0.0453 -0.15743,-0.0193 -0.21355,0.058 l -1.40357,1.93272 a 8.393302,8.393302 0 0 0 -2.16643,-0.70682 v -2.38566 c 0,-0.0955 -0.0622,-0.17261 -0.13921,-0.17261 z m 1.34433,3.82386 a 6.9880618,6.9880618 0 0 1 6.98814,6.98815 6.9880618,6.9880618 0 0 1 -6.98814,6.98815 6.9880618,6.9880618 0 0 1 -6.98815,-6.98815 6.9880618,6.9880618 0 0 1 6.98815,-6.98815 z"
+       id="path1898-0-2-9-4-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
+    <path
+       style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.116183;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 246.84608,135.97614 c -0.0711,0 -0.12844,0.0573 -0.12844,0.12844 v 2.89095 c 0,0.0711 0.0573,0.12844 0.12844,0.12844 h 6.5725 c 0.0711,0 0.12843,-0.0573 0.12843,-0.12844 v -2.89095 c 0,-0.0711 -0.0573,-0.12844 -0.12843,-0.12844 z m 1.09739,0.49695 h 0.65035 v 0.74975 h 0.74974 v 0.65035 h -0.74974 v 0.75019 h -0.65035 v -0.75019 h -0.7502 v -0.65035 h 0.7502 z m 4.05233,0 c 0.18416,-2e-5 0.33315,0.14897 0.33313,0.33312 2e-5,0.18415 -0.14897,0.3336 -0.33313,0.33358 -0.18415,2e-5 -0.33361,-0.14944 -0.33358,-0.33358 -3e-5,-0.18414 0.14943,-0.33314 0.33358,-0.33312 z m -0.74157,0.74158 c 0.18413,-2e-5 0.33359,0.14943 0.33357,0.33357 2e-5,0.18414 -0.14944,0.3336 -0.33357,0.33357 -0.18415,3e-5 -0.3336,-0.14942 -0.33358,-0.33357 -2e-5,-0.18414 0.14943,-0.3336 0.33358,-0.33357 z m 1.48315,0 c 0.18415,-3e-5 0.33314,0.14943 0.33312,0.33357 2e-5,0.18415 -0.14897,0.3336 -0.33312,0.33357 -0.18399,-1.9e-4 -0.33317,-0.14958 -0.33313,-0.33357 -4e-5,-0.18399 0.14914,-0.33337 0.33313,-0.33357 z m -0.74158,0.74157 c 0.18416,-3e-5 0.33315,0.14942 0.33313,0.33358 2e-5,0.18414 -0.14897,0.3336 -0.33313,0.33356 -0.18415,3e-5 -0.33361,-0.14942 -0.33358,-0.33356 -3e-5,-0.18415 0.14943,-0.3336 0.33358,-0.33358 z"
+       id="path1900-8-9-5-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssssccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\lsl\Repositories\art-dump\tutorial-icon.png"
+       inkscape:export-xdpi="889.39001"
+       inkscape:export-ydpi="889.39001" />
     <text
        xml:space="preserve"
        style="font-size:3.22402px;line-height:1.25;font-family:'Archivo Black';-inkscape-font-specification:'Archivo Black, ';text-align:center;text-anchor:middle;fill:#ffed8a;fill-opacity:1;stroke-width:0.0806008"
@@ -5474,5 +5514,65 @@
          x="270.66437"
          y="21.49345"
          id="tspan53946">Levi Lindsey’s</tspan></text>
+    <g
+       id="g2210"
+       transform="translate(-26.609523,2.2174603)">
+      <path
+         id="rect1124"
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.105997;stroke-linejoin:round"
+         d="m 249.60854,127.75573 v 6.67821 h 0.78556 v -6.67821 z" />
+      <path
+         id="rect1124-6"
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.0410655;stroke-linejoin:round"
+         d="m 249.84541,126.7163 c -0.13103,0 -0.23687,0.10583 -0.23687,0.23686 v 0.55815 h 0.78556 v -0.55815 c 0,-0.13103 -0.1052,-0.23686 -0.23623,-0.23686 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.129016;stroke-linejoin:round"
+         id="path1809"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="773.88562"
+         sodipodi:cy="-411.47052"
+         sodipodi:r1="1.6231399"
+         sodipodi:r2="0.81156993"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 773.88562,-409.84738 -0.70284,-1.21736 -0.70284,-1.21735 1.40568,0 1.40568,0 -0.70284,1.21735 z"
+         transform="matrix(0.27933064,0,0,0.45394619,33.83151,321.83168)"
+         inkscape:transform-center-x="-2.2564668e-06"
+         inkscape:transform-center-y="0.18419894" />
+    </g>
+    <g
+       id="g2210-2"
+       transform="matrix(0.56148006,0.98979145,-0.98979145,0.56148006,239.26769,-188.9043)">
+      <path
+         id="rect1124-9"
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.105997;stroke-linejoin:round"
+         d="m 249.60854,127.75573 v 6.67821 h 0.78556 v -6.67821 z" />
+      <path
+         id="rect1124-6-4"
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.0410655;stroke-linejoin:round"
+         d="m 249.84541,126.7163 c -0.13103,0 -0.23687,0.10583 -0.23687,0.23686 v 0.55815 h 0.78556 v -0.55815 c 0,-0.13103 -0.1052,-0.23686 -0.23623,-0.23686 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#18ffff;fill-opacity:1;stroke:none;stroke-width:0.129016;stroke-linejoin:round"
+         id="path1809-4"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="773.88562"
+         sodipodi:cy="-411.47052"
+         sodipodi:r1="1.6231399"
+         sodipodi:r2="0.81156993"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 773.88562,-409.84738 -0.70284,-1.21736 -0.70284,-1.21735 1.40568,0 1.40568,0 -0.70284,1.21735 z"
+         transform="matrix(0.27933064,0,0,0.45394619,33.83151,321.83168)"
+         inkscape:transform-center-x="-2.2564668e-06"
+         inkscape:transform-center-y="0.18419894" />
+    </g>
   </g>
 </svg>
